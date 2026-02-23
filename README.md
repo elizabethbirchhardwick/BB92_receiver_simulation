@@ -61,5 +61,7 @@ All code cells are pre-run for convenience, but you are encouraged to experiment
 ## 💬 Support
 
 For questions or suggestions, feel free to reach out:
+
 📧 **elizabethbirchhardwick@gmail.com**
+
 🚀 Or open an issue on [GitHub](https://github.com/elizabethbirchhardwick/BBM92_reiceiver_simulation/issues)
