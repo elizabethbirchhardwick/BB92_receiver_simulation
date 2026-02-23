@@ -12,7 +12,7 @@ This repository contains the full code and analysis accompanying the project _Mo
 
 The architecture is designed to strictly separate the Source, Channel, and Receiver modules. The simulation employs a hybrid approach—computing valid signal rates directly in Python whilst calculating noise rates analytically—to analyse key performance metrics like the Quantum Bit Error Rate (QBER) and Secret Key Rates. It actively compares the performance of current-generation Silicon Avalanche Photodiodes (Si-APDs) against future Superconducting Nanowire Single-Photon Detectors (SNSPDs). 
 
-📝 **You can read the full report in the repository: [`Simulation_of_a_Modular_BBM92_Receiver_Susbsystem-6.pdf`](Simulation_of_a_Modular_BBM92_Receiver_Susbsystem.pdf)**
+📝 **You can read the full report [here](Simulation_of_a_Modular_BBM92_Receiver_Susbsystem.pdf)**
 
 ---
 
@@ -27,11 +27,11 @@ When using this code, please:
 
 ## 📁 Repository structure
 
-    📄 BB92_receiver_simulation.ipynb              # Core simulation of the receiver subsystem and channel analysis
-    📄 Simulation_of_a_Modular_BBM92_Receiver_Susbsystem-6.pdf  # Full project report
-    📄 requirements.txt                            # List of required Python packages
-    📄 LICENSE.txt                                 # MIT License
-    📄 README.md                                   # This file
+    📄 BB92_receiver_simulation.ipynb                          # Core simulation of the receiver subsystem and channel analysis
+    📄 Simulation_of_a_Modular_BBM92_Receiver_Susbsystem.pdf   # Full project report
+    📄 requirements.txt                                        # List of required Python packages
+    📄 LICENSE.txt                                             # MIT License
+    📄 README.md                                               # This file
 
 ---
 
